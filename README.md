@@ -41,7 +41,7 @@ present(alert, animated: true, completion: nil)
 ```
 
 The alert then looks like this:
-TODO
+![Screenshot](screenshot.png)
 
 License
 -----
